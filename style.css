@@ -1,0 +1,28 @@
+* {
+  padding: 0%;
+  margin: 0%;
+  font-family: sans-serif;
+}
+
+.container {
+  background-color: grey;
+  max-width: 600px;
+  margin: auto;
+  padding-top:10px ;
+  padding-bottom: 5.1rem;
+}
+
+h1, h2, li, ol, ul, p{
+  margin-top: 10px;
+  justify-content: center;
+  text-align: center;
+  list-style-type: none;
+ 
+}
+
+img {
+  display: block;
+  margin: auto;
+  border-radius: 50%;
+  margin-top: 1rem;
+}
